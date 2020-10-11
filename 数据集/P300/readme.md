@@ -7,7 +7,7 @@
     的目标字符分别为CAT,DOG,FISH,WATER,BOWL;第二节各段的目标字符分别为HAT,HAT,GLOVE,SHOES,FISH,RAT;第三节各段的目标字符为FOOD，MOOT，HAM，PIE，CAKE，TUNA，ZYGOT，4567。     
    
 
-![image]https://github.com/702learner/EEG/edit/main/数据集/image/图片1.png
+![image](https://github.com/702learner/EEG/edit/main/数据集/image/图片1.png)
 
     在实验过程中，设备通过位于受试者脑部头皮上的64个采样电极，以240Hz的采样频率记录脑电信号。并将记录的信号分为三节，每节信号又根据英文单词或字符组的不同分成许多段。
     其中第一节(Session 10)包括5个段，第二节(Session 11)包括6个段，第三部分(Session 12)包括8个段。每段数据存储为一个Matlab数据格式文件，如第一节第四段的实验数据存
